@@ -1,7 +1,13 @@
 # Correlator for finding correlated time series
+
+## Introduction
+
+This repository contains code our team developed during the [M4 forecasting competition](https://mofc.unic.ac.cy/m4/). Details are given in the [article](https://doi.org/10.1016/j.ijforecast.2019.02.018): Anti Ingel et al. "Correlated daily time series and forecasting in the M4
+competition". International Journal of Forecasting 36.1 (2020). M4 Competition. Please cite this article when using our code.
+
 ## Getting Started
 
-Before trying to run the code, please download the required dataset from [here](https://drive.google.com/open?id=1o7xC4j2ai01st8dL_KUcM6gB_ThPpPrF). The original dataset can also be found [here](https://www.mcompetitions.unic.ac.cy/the-dataset/), but using the previous link is recommended, because it contains folder structure required by the code. Extract content of `correlator.zip` to the same folder that contains `src`.
+Before trying to run the code, please download the required dataset from [here](https://drive.google.com/open?id=1o7xC4j2ai01st8dL_KUcM6gB_ThPpPrF). The original dataset can also be found [here](https://github.com/Mcompetitions/M4-methods/tree/master/Dataset), but using the previous link is recommended, because it contains folder structure required by the code. Extract content of `correlator.zip` to the same folder that contains `src`.
 
 ### Content of `correlator.zip`
 
