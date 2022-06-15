@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains code our team developed during the [M4 forecasting competition](https://mofc.unic.ac.cy/m4/). Details are given in the [article](https://doi.org/10.1016/j.ijforecast.2019.02.018): Anti Ingel et al. "Correlated daily time series and forecasting in the M4
+This repository contains code our team developed during the [M4 forecasting competition](https://mofc.unic.ac.cy/m4/). Details are given in the [article](https://doi.org/10.1016/j.ijforecast.2019.02.018): Anti Ingel, Novin Shahroudi, Markus Kängsepp, Andre Tättar, Viacheslav Komisarenko and Meelis Kull. "Correlated daily time series and forecasting in the M4
 competition". International Journal of Forecasting 36.1 (2020). M4 Competition. Please cite this article when using our code.
 
 ## Getting Started
